@@ -60,3 +60,4 @@ Dart: The programming language used for developing Flutter applications.
 Bloc (Business Logic Components): A state management solution that helps manage the application's state and business logic.
 Sqflite: A SQLite database plugin for Flutter for local data storage.
 Encryption: The app utilizes encryption to ensure secure communication and data storage.
+Backend was written in Python using Pycharm.
